@@ -14,7 +14,7 @@ This project utilizes advanced AI technologies to monitor user interactions on a
 
 - **Frontend:** React
 - **Backend:** Flask
-- **AI Pipelines:** Python (including Q-learning, Reinforcement Learning, Generative AI)
+- **AI Pipelines:** Python (including Conservative Q-learning, Reinforcement Learning, Generative AI)
 
 🧠 AI Pipeline Details
 - **Recommendation Engine:** Utilizes Conservative Q-learning, Jaccard, and Cosine similarity algorithms to provide highly relevant product suggestions.
