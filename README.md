@@ -19,3 +19,8 @@ This project utilizes advanced AI technologies to monitor user interactions on a
 🧠 AI Pipeline Details
 - **Recommendation Engine:** Utilizes Q-learning, Jaccard, and Cosine similarity algorithms to provide highly relevant product suggestions.
 - **Ad Generation:** Leverages generative AI to create scripts, convert them to audio using TTS, and compile images into video ads, which are then automatically distributed.
+
+**Youtube Demo Link** : https://youtu.be/x-7E68XbRXg
+
+Product Screenshots:
+
