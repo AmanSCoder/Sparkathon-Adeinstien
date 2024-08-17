@@ -23,4 +23,7 @@ This project utilizes advanced AI technologies to monitor user interactions on a
 **Youtube Demo Link** : https://youtu.be/x-7E68XbRXg
 
 Product Screenshots:
+![image](https://github.com/user-attachments/assets/77cac4f0-ea66-4f26-9db6-98db6953d168)
+![image](https://github.com/user-attachments/assets/764b695a-686b-4cb4-932f-18e9fcfcd258)
+![image](https://github.com/user-attachments/assets/711c3bb0-4dd2-481b-b92f-4566c976685a)
 
