@@ -6,9 +6,9 @@ This project utilizes advanced AI technologies to monitor user interactions on a
 
 ### Key Features:
 - **Real-time User Interaction Monitoring:** Track and analyze user behavior on the website to enhance personalization.
-- **AI-Driven Recommendations:** Leverage Q-learning, Jaccard and Cosine similarity algorithms, and reinforcement learning to provide customized product suggestions.
+- **AI-Driven Recommendations:** Leverage Conservative Q-learning, Jaccard and Cosine similarity algorithms, and reinforcement learning to provide customized product suggestions.
 - **Automated Video Ad Generation:** Use generative AI to create engaging video ads, which are then distributed through short-form content platforms like reels and shorts.
-- **Seamless Integration:** Display personalized ads across YouTube, Walmart's in-store TVs, and the website.
+- **Seamless Integration:** Display personalized ads across YouTube, Walmart's in-store TVs, and other social media website.
 
 ## 🧑‍💻 Tech Stack
 
@@ -17,8 +17,8 @@ This project utilizes advanced AI technologies to monitor user interactions on a
 - **AI Pipelines:** Python (including Q-learning, Reinforcement Learning, Generative AI)
 
 🧠 AI Pipeline Details
-- **Recommendation Engine:** Utilizes Q-learning, Jaccard, and Cosine similarity algorithms to provide highly relevant product suggestions.
-- **Ad Generation:** Leverages generative AI to create scripts, convert them to audio using TTS, and compile images into video ads, which are then automatically distributed.
+- **Recommendation Engine:** Utilizes Conservative Q-learning, Jaccard, and Cosine similarity algorithms to provide highly relevant product suggestions.
+- **Ad Generation:** Leverages generative AI to create scripts, convert them to audio using TTS, and compile images into video ads, which are then automatically distributed over several social media platform.
 
 **Youtube Demo Link** : https://youtu.be/x-7E68XbRXg
 
