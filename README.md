@@ -1,4 +1,4 @@
-Welcome to the Sparkathon **Adeinstien** project! This repository contains the codebase for an innovative AI-powered system designed to enhance online shopping experiences through personalized product recommendations and automated video ad generation.
+Welcome to the **Adeinstien** project! This repository contains the codebase for an innovative AI-powered system designed to enhance online shopping experiences through personalized product recommendations and automated video ad generation.
 
 ## 🚀 Project Overview
 
